@@ -1,0 +1,8 @@
+Verify the application Next To Go Races launched with race options
+Verify by check or uncheck the options 
+Verify choosing all options in the page
+Verify by uncheck all options in the page
+Verify the timer is updating the time according to the program schedule
+Verify the application launched in different port other than 3000
+Verify the application launched in different browser
+Verify the race names are listed only 5 items per page
